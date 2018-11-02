@@ -32,8 +32,10 @@ Description
 
 // * * * * * * * * * * * * * * Static Data Members * * * * * * * * * * * * * //
 
+//test
 namespace Foam
 {
+
 
 defineTypeNameAndDebug(dsmcDiffuseWallPatch, 0);
 
